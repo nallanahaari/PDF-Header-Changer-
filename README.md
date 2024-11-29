@@ -7,5 +7,5 @@
  5. Voila!
 
  ## Packages Used :
- 1.PyPDF2 
- 2.reportlab
+ 1. PyPDF2 
+ 2. reportlab
