@@ -1,5 +1,5 @@
-simple pdf header for multiple pdf files at once. Made this for changing headers in assignments.
-# steps
+**Simple pdf header changer for multiple pdf files at once. Made this for changing headers in assignments :)**
+# Steps
  1. open Main.ipynb
  2. add folder path where your PDFs are stored in output_folder
  3. Add header string in the corresponding variable.
